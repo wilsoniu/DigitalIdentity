@@ -1,0 +1,38 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="DegitalIdentityRUILIN26816865.com" resolutions="1x,2x" timestamp="1554642428296">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4288243669" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="animation-unlock-stage1.gif" crc="513261082" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="animation-unlock-stage1_2x.gif" crc="513261082" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iphone frame-u112.png" crc="3981472043" ref="index"/>
+    <file name="animation-unlock-stage2.gif" crc="4256472907" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="animation-unlock-stage2_2x.gif" crc="4256472907" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iphone frame-u332.png" crc="3981472043" ref="index"/>
+    <file name="animation-unlock-stage3.gif" crc="3936408702" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="animation-unlock-stage3_2x.gif" crc="3936408702" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iphone frame-u498.png" crc="3981472043" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4107286489" seo="true" mt="1554640871942" redirect="true"/>
+</manifest>
